@@ -1,12 +1,10 @@
 ![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)
-<h1 align="center">Sunny here</h1>
+<h1 align="center">I'm Sunny </h1>
 <h3 align="center">A passionate programmer & designer from India</h3>
 
 <img align = "right" alt = "Coding" width = "400" src ="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imkss&label=Profile%20views&color=0e75b6&style=flat" alt="imkss" /> </p>
-
-<p align="left"> <a href="https://twitter.com/i_m_k_s_s" target="blank"><img src="https://img.shields.io/twitter/follow/i_m_k_s_s?logo=twitter&style=for-the-badge" alt="i_m_k_s_s" /></a> </p>
 
 - 🌱 I’m currently learning **Web Dev & Android Dev**
 
