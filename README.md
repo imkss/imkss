@@ -1,4 +1,4 @@
-  ![MasterHead]( https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif )  
+  ![MasterHead]( https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877 )  
 <h1 align="center">Hi 👋, I'm Sunny 👾</h1>
 <h3 align="center">A passionate programmer & designer from India</h3>
 
