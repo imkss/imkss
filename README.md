@@ -1,4 +1,4 @@
-  ![MasterHead] img align = "center" ( https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif )  
+  ![MasterHead]( https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif )  
 <h1 align="center">Hi 👋, I'm Sunny 👾</h1>
 <h3 align="center">A passionate programmer & designer from India</h3>
 
