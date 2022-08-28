@@ -1,4 +1,4 @@
-![MasterHead](https://pa1.narvii.com/7370/62493aeb0bf622fa82b0b5736542c361c13787acr1-500-281_hq.gif)
+![MasterHead]( )
 <h1 align="center">Hi 👋, I'm Sunny</h1>
 <h3 align="center">A passionate programmer & designer from India</h3>
 
