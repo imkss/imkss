@@ -1,6 +1,5 @@
-<img align = "centre" alt = "Coding" width = "https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877">
-
-<h1 align="center">Hi 👋, I'm Sunny 👾</h1>
+![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)
+<h1 align="center">Sunny here</h1>
 <h3 align="center">A passionate programmer & designer from India</h3>
 
 <img align = "right" alt = "Coding" width = "400" src ="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif">
