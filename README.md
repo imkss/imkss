@@ -1,4 +1,4 @@
-[![MasterHead](https://www.gjar-po.sk/~katarina.mordavska8c/pics/loading.gif)]
+![MasterHead](https://www.gjar-po.sk/~katarina.mordavska8c/pics/loading.gif)
 <h1 align="center">Hi 👋, I'm Sunny</h1>
 <h3 align="center">A passionate programmer & designer from India</h3>
 
