@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imkss&label=Profile%20views&color=0e75b6&style=flat" alt="imkss" /> </p>
 
-- 🌱 I’m currently learning **Web Dev & Android Dev**
+- 🌱 I’m currently learning **Web Dev**
 
 - 💬 Ask me about **Java**
 
