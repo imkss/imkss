@@ -1,23 +1,23 @@
 <a href="#">
-  <img width=100% src="https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg"/>
-</a>
-<!-- <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/> -->
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Sunny;I'm+from+India;I+Love+Programming+and+Development+;Be+Welcome!%E3%83%84)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Sunny;I'm+from+India;I+Love+Programming+and+Development+;Be+Welcome!%E3%83%84)
 </a>
 
-<div align="center">
+<div align="center">  
+  <div> 
+    <em>🔭 I’m currently working on Machine Learning</em><br><em>👯 I’m looking to collaborate on Web Apps</em><br><em>🤝 I’m looking for help with Deployment<br><em>🌱 I’m currently learning Android Dev</em><br>
+  </div>
   <br>
+  
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imkss&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkss&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   </a>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkss&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+      <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=imkss&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=false"/>
   </a>
 </div> 
-   
-<br>
 <br>
   
 <div style="display: inline_block">
@@ -25,9 +25,9 @@
     <a href="#">
       <img align="center" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>
-<!--     <a href="#">
-      <img align="center" alt="Logo do TypeScript" height="30" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    </a> -->
+    <a href="#">
+      <img align="center" alt="Logo do TypeScript" height="30" width="40" title="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
+    </a>
     <a href="#">
       <img align="center" alt="Logo do React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     </a>
@@ -74,12 +74,28 @@
   </p>
 </div>
 <br>
-<div> 
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_m_k_s_s) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumar-sunny-suman-873616197) 
+  [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kumar-Sunny-Suman) 
+  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12786680) 
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i_m_k_s_s) 
+  
+<!-- <div> 
   <p align="center">
     <a href="https://www.linkedin.com/in/kumar-sunny-suman-873616197/"><img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
+    </a>    
   </p>
-</div>
+</div> -->
+  
+<!--   ### ✍️ Random Dev Quote -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+ 
+  <a href="#">
+  <img width=100% src="https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg"/>
+</a>
+  
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
