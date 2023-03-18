@@ -7,7 +7,7 @@
 
 <div align="center">  
   <div> 
-    <em>🔭 I’m currently working on Machine Learning</em><br><em>👯 I’m looking to collaborate on Web Apps</em><br><em>🤝 I’m looking for help with Deployment<br><em>🌱 I’m currently learning Android Dev</em><br>
+    <em>🔭 <b>I’m currently working on Machine Learning </b></em><br><em>👯 <b>I’m looking to collaborate on Web Apps </b></em><br><em>🤝<b> I’m looking for help with Deployment</b><br><em>🌱 <b>I’m currently learning Android Dev</b></em><br>
   </div>
   <br>
   
