@@ -5,8 +5,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Sunny;I'm+from+India;I+Love+Programming+and+Development+;Be+Welcome!%E3%83%84)
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=66BFBF&center=true&vCenter=true&width=436&lines=From+India;I+Love+Programming+%26+Development;Be+Welcome!+%E3%83%84)](https://git.io/typing-svg)
-
 <div align="center">  
   <div> 
     <em>🔭 <b>Currently working on Machine Learning </b></em><br><em>👯 <b>Looking to collaborate on Web Apps </b></em><br><em>🤝<b> Asking for help on Deployment</b><br><em>🌱 <b>Currently learning Android Dev</b></em><br>
