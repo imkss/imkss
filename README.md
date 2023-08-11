@@ -7,7 +7,7 @@
 
 <div align="center">  
   <div> 
-    🔭 <b>Currently working on Blockchain Technology</b><br>👯 <b>Looking to collaborate on Web Apps</b><br>🤝<b> Asking for help on DevOps </b><br>🌱 <b>Currently learning Android Dev</b><br>
+    🔭 <b>Currently working on Blockchain Technology</b><br>👯 <b>Looking to collaborate on Web Apps</b><br>🤝<b> Asking for help on DevOps </b><br>🌱 <b>Currently learning Spring Boot</b><br>
   </div>
   <br>
   
