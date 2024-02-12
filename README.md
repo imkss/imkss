@@ -7,7 +7,7 @@
 
 <div align="center">  
   <div> 
-    🔭 <b>Currently working on React</b><br>👯 <b>Looking to collaborate on MERN stack projects</b><br>🤝<b> Asking for help on DevOps </b><br>🌱 <b>Currently learning Next.js</b><br>
+    🧑‍💻 <b>Currently working on React </b>🧑‍💻<br>🙏 <b>Looking to collaborate on MERN stack projects </b>🙏<br>🤝<b> Asking for help on DevOps </b>🤝<br>🌱 <b>Currently learning Next.js </b>🌱<br>
   </div>
   <br>
   
@@ -24,16 +24,7 @@
   <p align="center">
     <a href="#">
       <img align="center" alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="jquery" height="30" width="40" title="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Nodejs" height="30" width="40" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    </a>
+    </a>   
     <a href="#">
       <img align="center" alt="HTML5" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     </a>
@@ -42,24 +33,23 @@
     </a>
         <a href="#">
       <img align="center" alt="Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    </a> 
+    <a href="#">
+      <img align="center" alt="jquery" height="30" width="40" title="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
     </a>
     <a href="#">
-      <img align="center" alt="Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center" alt="React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     </a>
     <a href="#">
-      <img align="center" alt="Go" height="30" width="40" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+      <img align="center" alt="tailwindCss" height="30" width="40" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
     </a>
     <a href="#">
-      <img align="center" alt="C++" height="30" width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+      <img align="center" alt="Nodejs" height="30" width="40" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    </a>     <a href="#">
+      <img align="center" alt="NextJs" height="30" width="40" title="NextJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
     </a>
-    <a href="#">
-      <img align="center" alt="C" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Kotlin" height="30" width="40" title="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+        <a href="#">
+      <img align="center" alt="C" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     </a>
     <a href="#">
       <img align="center" alt="git" height="30" width="40" title="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -70,7 +60,15 @@
     <a href="#">
       <img align="center" alt="MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     </a>
-
+    <a href="#">
+      <img align="center" alt="Docker" height="30" width="40" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    </a>
+        <a href="#">
+      <img align="center" alt="Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="C++" height="30" width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg">
+    </a>
   </p>
 </div>
 <br>
@@ -86,15 +84,18 @@
 <!--   ### ✍️ Random Dev Quote -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumar-sunny-suman-873616197) 
-  [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kumar-Sunny-Suman) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imkss)
   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12786680) 
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i_m_k_s_s) 
   
  
-  <a href="#">
+<!-- THE SNAKE GAME
+
+<a href="#">
   <img width=100% src="https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg"/>
 </a>
+
+-->
   
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
