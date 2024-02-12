@@ -52,6 +52,9 @@
         <a href="https://www.typescriptlang.org/docs/">
       <img align="center" alt="TypeScript" height="30" width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     </a>
+    <a href="https://vitejs.dev/guide/">
+      <img align="center" alt="Vite" height="30" width="40" title="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg">
+    </a> 
     <a href="https://git-scm.com/doc">
       <img align="center" alt="git" height="30" width="40" title="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     </a>
