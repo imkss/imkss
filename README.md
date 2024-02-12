@@ -65,7 +65,7 @@
       <img align="center" alt="Vercel" height="30" width="40" title="Vercel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
     </a>
     <a href="https://docs.netlify.com/">
-      <img align="center" alt="Netlify" height="30" width="40" title="Netlify" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
+      <img align="center" alt="Netlify" height="30" width="40" title="Netlify" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg">
     </a>
         <a href="https://docs.oracle.com/en/java/">
       <img align="center" alt="Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
