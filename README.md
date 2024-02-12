@@ -22,52 +22,56 @@
   
 <div style="display: inline_block">
   <p align="center">
-    <a href="#">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img align="center" alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>   
-    <a href="#">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
       <img align="center" alt="HTML5" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     </a>
-    <a href="#">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
       <img align="center" alt="CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </a>
-        <a href="#">
+        <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
       <img align="center" alt="Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     </a> 
-    <a href="#">
+    <a href="https://api.jquery.com/">
       <img align="center" alt="jquery" height="30" width="40" title="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
     </a>
-    <a href="#">
+    <a href="https://legacy.reactjs.org/docs/getting-started.html">
       <img align="center" alt="React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     </a>
-    <a href="#">
-      <img align="center" alt="tailwindCss" height="30" width="40" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+    <a href="https://tailwindcss.com/docs/installation">
+      <img align="center" alt="TailwindCss" height="30" width="40" title="TailwindCss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
     </a>
-    <a href="#">
+    <a href="https://nodejs.org/docs/latest/api/">
       <img align="center" alt="Nodejs" height="30" width="40" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    </a>     <a href="#">
+    </a>     
+    <a href="https://nextjs.org/docs">
       <img align="center" alt="NextJs" height="30" width="40" title="NextJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
     </a>
-        <a href="#">
-      <img align="center" alt="C" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+        <a href="https://www.typescriptlang.org/docs/">
+      <img align="center" alt="TypeScript" height="30" width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     </a>
-    <a href="#">
+    <a href="https://git-scm.com/doc">
       <img align="center" alt="git" height="30" width="40" title="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     </a>
-    <a href="#">
+    <a href="https://dev.mysql.com/doc/">
       <img align="center" alt="MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
     </a>
-    <a href="#">
+    <a href="https://mongodb.com/docs/">
       <img align="center" alt="MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     </a>
-    <a href="#">
-      <img align="center" alt="Docker" height="30" width="40" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <a href="https://vercel.com/docs">
+      <img align="center" alt="Vercel" height="30" width="40" title="Vercel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
     </a>
-        <a href="#">
+    <a href="https://docs.netlify.com/">
+      <img align="center" alt="Netlify" height="30" width="40" title="Netlify" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
+    </a>
+        <a href="https://docs.oracle.com/en/java/">
       <img align="center" alt="Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     </a>
-    <a href="#">
-      <img align="center" alt="C++" height="30" width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg">
+    <a href="https://junit.org/junit5/docs/current/user-guide/">
+      <img align="center" alt="JUnit" height="30" width="40" title="JUnit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg">
     </a>
   </p>
 </div>
