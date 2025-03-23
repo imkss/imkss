@@ -7,7 +7,7 @@
 
 <div align="center">  
   <div> 
-    🧑‍💻 <b>Currently working on React </b>🧑‍💻<br>🙏 <b>Looking to collaborate on MERN stack projects </b>🙏<br>🤝<b> Asking for help on DevOps </b>🤝<br>🌱 <b>Currently learning Next.js </b>🌱<br>
+    🧑‍💻 <b>Working on React and node.js </b>🧑‍💻<br>🙏 <b>Looking to collaborate on MERN stack projects </b>🙏<br>🤝<b> Asking for help on DevOps </b>🤝<br>🌱 <b>Currently learning spring boot</b>🌱<br>
   </div>
   <br>
   
