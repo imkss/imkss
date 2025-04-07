@@ -94,7 +94,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imkss)
   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12786680) 
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i_m_k_s_s) 
-  <a href="https://wakatime.com/@42dd2f46-68d8-4c12-9678-848126cf0cca"><img src="https://wakatime.com/badge/user/42dd2f46-68d8-4c12-9678-848126cf0cca.svg" alt="Total time coded since Feb 27 2024" /></a>
  
 <!-- THE SNAKE GAME
 
